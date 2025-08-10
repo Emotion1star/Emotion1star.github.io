@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://emotion1star.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://emotion1star.github.io/"/>
+  <updated>2025-08-10T07:09:34.266Z</updated>
+  <id>https://emotion1star.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SQL</title>
+    <link href="https://emotion1star.github.io/2025/08/10/sql/"/>
+    <id>https://emotion1star.github.io/2025/08/10/sql/</id>
+    <published>2025-08-10T06:55:06.000Z</published>
+    <updated>2025-08-10T07:09:34.266Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;SQL从0到一&lt;/p&gt;
+&lt;h1 id=&quot;判断数据库类型&quot;&gt;&lt;a href=&quot;#判断数据库类型&quot; class=&quot;headerlink&quot; title=&quot;判断数据库类型&quot;&gt;&lt;/a&gt;判断数据库类型&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;根据端口判断&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://emotion1star.github.io/2025/08/10/hello-world/"/>
+    <id>https://emotion1star.github.io/2025/08/10/hello-world/</id>
+    <published>2025-08-10T04:55:03.687Z</published>
+    <updated>2025-08-10T04:55:03.687Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
